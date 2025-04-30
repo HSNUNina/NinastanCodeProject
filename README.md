@@ -1,6 +1,6 @@
-# Nina's stanCode Project
+# Nina's Stanford CS106A Project
 Hello there!\
-This repository holds my programming projects done during the period of stanCode SC101 course.
+This repository holds my programming projects done during the period of Stanford CS106A course.
 # Project Source Coudes:
 [Beeper Row](https://github.com/HSNUNina/NinastanCodeProject/blob/main/Nina's%20stanCode%20projects/BeeperRow.py)\
 [Beeper Row Adv](https://github.com/HSNUNina/NinastanCodeProject/blob/main/Nina's%20stanCode%20projects/BeeperRowAdv.py)\
